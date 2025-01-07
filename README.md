@@ -18,7 +18,10 @@ Este repositorio contiene el proyecto final de la asignatura de Visión por Comp
 - `data/`
   - Carpetes con imágenes para la calibración de la cámara, con la deteccion de los colores del cubo Rubik, y el resultado de los trackers
 - `docs/`
-  - `informe.pdf`: Informe detallado sobre el desarrollo y resultados del proyecto.
+  - `CVI_Lab_Project.pdf`: Enunciado e Instrucciones del proyecto.
+  - `FP_ComputerVision.pdf`: Informe detallado sobre el desarrollo y resultados del proyecto.
+  - `PPT_Vision.pdf`: Presentación con la explicación del vídeo-demo.
+  - `PFVision_Video.mp4`: Video-demo con ejemplo en tiempo real del proceso completo desde la Rasberry Pi
 - `videos/`
   -   Videos para la prueba y funcionamiento del tracker
 
